@@ -13,3 +13,4 @@
 				LEN(HBM_CLIENT.CLIENT_CODE)						=	7 
 	ORDER BY
 				LEN(CLIENT_CODE)
+				 
